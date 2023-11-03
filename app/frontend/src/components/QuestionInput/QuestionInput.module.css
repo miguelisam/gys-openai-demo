@@ -1,0 +1,20 @@
+.questionInputContainer {
+    border-radius: 8px;
+    box-shadow: 0 8px 16px #00000024, 0 0 2px #0000001f;
+    height: 90px;
+    width: 100%;
+    padding: 15px;
+    background: white;
+    border: 1px solid #b3b3b3;
+}
+
+.questionInputTextArea {
+    width: 100%;
+    line-height: 40px;
+}
+
+.questionInputButtonsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
